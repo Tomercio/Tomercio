@@ -18,4 +18,3 @@
   ## 💰 You can support my journey HERE !
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/trai47) 
 
-![snake gif](https://github.com/Tomercio/Tomercio/blob/output/github-contribution-grid-snake.gif)
