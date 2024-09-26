@@ -1,5 +1,5 @@
 # 💫 About Me:
-📖 I’m currently learning Fullstack Development<br>👯 I’m looking to collaborations<br>💬 Ask me about anything<br>⚡ Looking forward to develop new tech
+📖 Just finished Fullstack Development Bootcamp<br>👯 I’m looking to collaborations<br>💬 Ask me about anything<br>⚡ Looking forward to develop new tech
 
 
 ## 🌐 Socials:
