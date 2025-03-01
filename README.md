@@ -1,5 +1,7 @@
 ?# 💫 About Me:
-📖 Just finished Fullstack Development Bootcamp<br>👯 I’m looking to collaborations<br>💬 Ask me about anything<br>⚡ Looking forward to develop new tech
+Hey guys ! I am currently working on my own Fullstack project with my friends, and will update as soon as we got anything new on our work.
+Also, Working as a Cyber Security Analyst and evolving in the Security field.
+Current Target is: Security Researcher
 
 
 ## 🌐 Socials:
