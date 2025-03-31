@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hey guys ! I am currently working on my own Fullstack project with my friends, and will update as soon as we got anything new on our work.
 Also, Working as a Cyber Security Analyst and evolving in the Security field.
-Current Target is: Security Researcher
 
 
 ## 🌐 Socials:
