@@ -1,6 +1,8 @@
 # 💫 About Me:
-Hey guys ! I am currently working on my own Fullstack project with my friends, and will update as soon as we got anything new on our work.
-Also, Working as a Cyber Security Analyst and evolving in the Security field.
+Hey guys ! I am a Security Analyst and a Developer that is always looking for some new challenges !
+In this new era of AI I try to always grow and learn new things in this field.
+Currently evolving in the Cyber Security field and getting my path in Python.
+If you are interesting in what I am doing you more then welcome to visit my site : pixarro.art 
 
 
 ## 🌐 Socials:
